@@ -9,7 +9,7 @@ Even though sometimes React js can be a over-statement for a small project, it i
 
 ### Check it out!
 
-* [Contact Responsive App](https://franciscaechague.github.io/coffeeUp/) - Learn which coffee you're in the mood for
+* [Contact Responsive App](https://serene-inlet-38045.herokuapp.com/) - Learn which coffee you're in the mood for
 * [How it works] - Be able to have all your object information displayed as a contact application being able to have Favorites and add or remove other contacts on both sides.
 
 ![Just a small preview](/public/contactApp.gif?raw=true "Step By Step")
